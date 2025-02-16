@@ -15,4 +15,4 @@ Use the helper method searchPrefix to traverse the Trie.
 Return true if the node is found and is marked as an end-of-word.
 startsWith(String prefix):
 
-Similar to search but only checks for the existence of the prefix in the Trie.
+Similar to search but only checks for the existence of the prefix in the Trie....
